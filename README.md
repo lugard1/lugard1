@@ -58,6 +58,6 @@ After you're finished please remove all the comments and instructions!
 
 <h3 align="left">⚡GitHub Stats</h3>
 <hr><br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lugard1&show_icons=true&locale=en&layout=compact" alt="lugard1" /></p>
+<p><img width="38%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lugard1&show_icons=true&locale=en&layout=compact" alt="lugard1" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=lugard1&show_icons=true&locale=en" alt="lugard1" /></p>
+<p>&nbsp;<img width="55%" align="left" src="https://github-readme-stats.vercel.app/api?username=lugard1&show_icons=true&locale=en" alt="lugard1" /></p>
