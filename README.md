@@ -30,7 +30,7 @@ After you're finished please remove all the comments and instructions!
 <h1 align="center">Hi 👋, I'm Lugard Agu</h1>
 <h3 align="center">Am a passionate Full-Stack software Engineer</h3><br>
 
-<img src="Blue & Yellow Professional Future Technology Presentation.png" alt=""><br><br>
+<img src="Blue & Yellow Professional Future Technology Presentation (1).png" alt=""><br><br>
 
 <h3 align="left">Highlights</h3>
 <ul align="left">
